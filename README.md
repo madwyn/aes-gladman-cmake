@@ -10,7 +10,7 @@ git clone https://github.com/BrianGladman/aes.git
 ```
 
 ```
-/aes_gladman_cmake
+/aes-gladman-cmake
 /aes
 CMakeLists.txt
 ```
@@ -19,7 +19,7 @@ CMakeLists.txt
 
 ```
 set(AES_GLADMAN_ROOT ${CMAKE_CURRENT_LIST_DIR}/aes)
-add_subdirectory(aes_gladman_cmake)
+add_subdirectory(aes-gladman-cmake)
 ```
 
 3. Link the target

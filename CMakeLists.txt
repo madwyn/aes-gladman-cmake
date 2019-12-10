@@ -1,7 +1,5 @@
 project(aes_Gladman)
 
-
-
 set(aes_Gladman_SRCS
     ${AES_GLADMAN_ROOT}/aes_modes.c
     ${AES_GLADMAN_ROOT}/aescrypt.c
