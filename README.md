@@ -5,8 +5,8 @@ How to use:
 1. Download the source code of both repositories, e.g.:
 
 ```
-git clone
-git clone
+git clone https://github.com/madwyn/aes-gladman-cmake.git
+git clone https://github.com/BrianGladman/aes.git
 ```
 
 ```
